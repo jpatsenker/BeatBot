@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+
+env/
+
+*.tar.xz
+*.flac
+*.wav
