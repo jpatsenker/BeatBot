@@ -1,7 +1,10 @@
 .DS_Store
 *.swp
 
+__pycache__
 env/
+
+out/*.json
 
 *.tar.xz
 *.flac
